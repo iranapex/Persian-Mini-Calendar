@@ -1,0 +1,26 @@
+# Persian mini calendar
+
+# About
+This region plug-in displays a small calendar with the specified date highlighted. This plugin is a copy of Oracle's mini calendar that shows calendar in Persian. Current version is tested on apex 5.0.3.
+The query must return at least two columns--a date and its label (other columns will be ignored). The calendar will display for the earliest date returned, highlighting all dates returned within that month.
+
+<pre>
+select date_value, label_value
+from ...
+</pre>
+
+
+# Note
+You can help by filling issues through Github.
+
+# How to install
+The APEX Plugin file is included in this repo.
+
+History
+Monitoring application was originally created by .... and is now maintained by OraOpenSource.
+
+# version
+version 1.0
+
+# Lisence
+See LICENSE.md
