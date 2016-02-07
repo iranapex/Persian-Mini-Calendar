@@ -17,7 +17,7 @@ You can help by filling issues through Github.
 The APEX Plugin file is included in this repo.
 
 History
-Monitoring application was originally created by .... and is now maintained by OraOpenSource.
+This Plugin is a copy of Oracle's mini calendar on APEX 5.0.3 that shows Persian calendar.
 
 # version
 version 1.0
