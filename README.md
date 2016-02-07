@@ -16,7 +16,7 @@ You can help by filling issues through Github.
 # How to install
 The APEX Plugin file is included in this repo.
 
-History
+#History
 This Plugin is a copy of Oracle's mini calendar on APEX 5.0.3 that shows Persian calendar.
 
 # version
