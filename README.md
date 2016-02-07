@@ -27,5 +27,8 @@ This Plugin is a copy of Oracle's mini calendar on APEX 5.0.3 that shows Persian
 # version
 version 1.0
 
+# Edited by
+Mahdi Ahmadi
+
 # Lisence
 See LICENSE.md
