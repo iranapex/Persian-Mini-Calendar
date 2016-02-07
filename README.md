@@ -9,7 +9,7 @@ select date_value, label_value
 from ...
 </pre>
 
-![ScreenShot](http://uploads.im/duGlv.png)
+![ScreenShot](https://cloud.githubusercontent.com/assets/13412866/12872026/614aa1da-cdaa-11e5-8170-14c52feeee94.png)
 
 Visit Demo Page: [Demo Page](https://apex.oracle.com/pls/apex/f?p=36979:205)
 
