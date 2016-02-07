@@ -9,7 +9,7 @@ select date_value, label_value
 from ...
 </pre>
 
-![ScreenShot](https://raw.githubusercontent.com/iranapex/Persian-Mini-Calendar/master/iranapex.png)
+![ScreenShot](http://uploads.im/duGlv.png)
 
 Visit Demo Page: [Demo Page](https://apex.oracle.com/pls/apex/f?p=36979:205)
 
