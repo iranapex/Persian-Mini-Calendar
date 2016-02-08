@@ -3,7 +3,7 @@
   "version" : "1.0",
   "description" : "This region plug-in displays a small calendar with the specified date highlighted. This plugin is a copy of Oracle's mini calendar that shows calendar in Persian.",
   "keywords" : ["calendar", "persian", "mini-calendar", "date"],
-  "homepage" : "https://github.com/nbuytaert1/apex-alertify",
+  "homepage" : "https://github.com/iranapex/Persian-Mini-Calendar",
   "bugs" : {
     "url" : "https://github.com/iranapex/Persian-Mini-Calendar",
     "email" : "info@iranapex.ir"
@@ -12,7 +12,7 @@
   "author" : {
     "name" : "Mahdi Ahmadi",
     "email" : "ahmadi@iranapex.ir",
-    "url" : "https://iranapex.ir/"
+    "url" : "http://iranapex.ir/"
   },
   "repository" : {
     "type" : "git",
